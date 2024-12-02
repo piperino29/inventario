@@ -1,0 +1,64 @@
+
+> inventario@1.0.0 dev
+> vite
+
+sh: 1: vite: not found
+
+> inventario@1.0.0 dev
+> vite
+
+sh: 1: vite: not found
+
+> inventario@1.0.0 dev
+> vite
+
+sh: 1: vite: not found
+
+> inventario@1.0.0 dev
+> vite
+
+sh: 1: vite: Permission denied
+
+> inventario@1.0.0 dev
+> vite
+
+sh: 1: vite: Permission denied
+
+> inventario@1.0.0 dev
+> vite
+
+sh: 1: vite: Permission denied
+
+> inventario@1.0.0 dev
+> vite
+
+sh: 1: vite: Permission denied
+
+> inventario@1.0.0 dev
+> vite
+
+sh: 1: vite: Permission denied
+
+> inventario@1.0.0 dev
+> vite
+
+sh: 1: vite: Permission denied
+
+> inventario@1.0.0 dev
+> vite
+
+
+  VITE v5.3.5  ready in 220 ms
+
+  ➜  Local:   http://localhost:5210/
+  ➜  Network: http://10.10.1.27:5210/
+15:57:02 [vite] hmr update /src/pages/Home.jsx, /src/pages/Inventario.jsx, /src/components/Tabla.jsx
+
+> inventario@1.0.0 dev
+> vite
+
+
+  VITE v5.3.5  ready in 1070 ms
+
+  ➜  Local:   http://localhost:5210/
+  ➜  Network: http://10.10.1.27:5210/
